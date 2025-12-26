@@ -9,7 +9,6 @@ and generates a final report for support managers.
 - Python
 - Google Colab
 - GitHub
-- Pandas
 
 ## Key Features
 - Text cleaning and preprocessing
